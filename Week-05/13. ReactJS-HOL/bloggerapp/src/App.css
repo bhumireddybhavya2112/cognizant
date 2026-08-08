@@ -1,0 +1,33 @@
+.container{
+    display:flex;
+    justify-content:space-around;
+    margin:40px;
+}
+
+.section{
+    width:300px;
+    padding:20px;
+    border-left:4px solid green;
+}
+
+h1{
+    font-size:35px;
+    margin-bottom:20px;
+}
+
+h2{
+    font-size:28px;
+}
+
+h3{
+    margin:10px 0;
+}
+
+h4{
+    color:#444;
+    font-weight:normal;
+}
+
+p{
+    color:#666;
+}
