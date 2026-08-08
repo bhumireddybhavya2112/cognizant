@@ -1,0 +1,7 @@
+Welcome to Git Hands-on 1
+
+This is a template to use for GIT hadnson 1 to apply GIT commands in it.
+
+Week 6 - Git Module
+
+Cognizant Deep Skilling
