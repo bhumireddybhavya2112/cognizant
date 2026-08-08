@@ -1,0 +1,5 @@
+Git Branching Practice
+
+This file is created for Git HOL 3.
+
+Current Branch: GitNewBranch
